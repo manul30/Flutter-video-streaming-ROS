@@ -9,7 +9,10 @@ $ flutter pub get
 '''
 
 To run, execute
-
+``` Ruby
+class MyClass
+end
+```
 '''
 flutter run --no-sound-null-safety
 '''
