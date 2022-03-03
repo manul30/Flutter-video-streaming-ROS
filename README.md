@@ -1,6 +1,18 @@
 # linux_desktop
 
-A new Flutter project.
+To run this is important to create a flutter project
+
+'''
+$ flutter create
+$ flutter clean
+$ flutter pub get
+'''
+
+To run, execute
+
+'''
+flutter run --no-sound-null-safety
+'''
 
 ## Getting Started
 
