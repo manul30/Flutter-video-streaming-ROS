@@ -2,20 +2,16 @@
 
 To run this is important to create a flutter project
 
-'''
+``` Python
 $ flutter create
 $ flutter clean
 $ flutter pub get
-'''
+```
 
 To run, execute
-``` Ruby
-class MyClass
-end
+``` Python
+$ flutter run --no-sound-null-safety
 ```
-'''
-flutter run --no-sound-null-safety
-'''
 
 ## Getting Started
 
